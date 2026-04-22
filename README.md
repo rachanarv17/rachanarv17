@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0ea5e9,100:ec4899&height=250&section=header&text=Rachana%20R%20V&fontColor=ffffff&fontSize=58&animation=fadeIn&desc=Women%20in%20Cybersecurity%20%7C%20Secure%20Systems%20%7C%20AI%20Innovation&descAlignY=72&descSize=18" alt="Rachana R V banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:7c3aed&height=250&section=header&text=Rachana%20R%20V&fontColor=ffffff&fontSize=58&animation=fadeIn&desc=Cybersecurity%20Engineering%20Student%20%7C%20Secure%20Systems%20%7C%20AI%20Innovation&descAlignY=72&descSize=18" alt="Rachana R V banner" />
 
 # Hi there, I'm Rachana R V
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=EC4899&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineering+Student;Women+in+Cybersecurity;Ethical+Hacking+Learner;Building+Secure+and+Intelligent+Systems;Breaking+Barriers+Through+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=0EA5E9&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineering+Student;Ethical+Hacking+Learner;AI-Driven+Solutions+Explorer;Building+Secure+and+Intelligent+Systems;Learning+Security+One+Project+at+a+Time" alt="Typing SVG" />
 
 </div>
 
@@ -14,13 +14,11 @@
 
 I am a **Cybersecurity Engineering student (4th Semester)** at **GM University, Davangere**, with a strong passion for building secure, scalable, and intelligent systems.
 
-As a woman in technology, I am inspired to grow in the field of **cybersecurity**, contribute to safer digital systems, and encourage more women to explore security, engineering, and innovation.
-
 I am deeply interested in **ethical hacking, system security, AI-driven solutions, and modern software development practices**. I enjoy solving real-world problems through technology by combining my knowledge of **programming, cybersecurity, AI, databases, and system design** to create useful and impactful solutions.
 
 ---
 
-## Women In Cybersecurity Vision
+## Cybersecurity Vision
 
 ```yaml
 Name        : Rachana R V
@@ -28,7 +26,7 @@ Role        : Cybersecurity Engineering Student
 University  : GM University, Davangere
 Semester    : 4th Semester
 Focus       : Ethical Hacking | Secure Systems | AI for Security
-Mission     : Learn, build, protect, and inspire more women in cybersecurity
+Mission     : Learn, build, protect, and create secure technology solutions
 Mindset     : Curious, resilient, analytical, and security-first
 ```
 
@@ -40,7 +38,7 @@ Mindset     : Curious, resilient, analytical, and security-first
 
 ![Python](https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-0EA5E9?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-EC4899?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Basic%20JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Web & Application Development
@@ -54,26 +52,26 @@ Mindset     : Curious, resilient, analytical, and security-first
 
 ![MySQL](https://img.shields.io/badge/MySQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white)
 ![Database Design](https://img.shields.io/badge/Database%20Design-334155?style=for-the-badge&logo=databricks&logoColor=white)
-![ER Diagrams](https://img.shields.io/badge/ER%20Diagrams-EC4899?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![ER Diagrams](https://img.shields.io/badge/ER%20Diagrams-7C3AED?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 ### Cybersecurity & Analysis
 
 ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![System Security](https://img.shields.io/badge/System%20Security-0F172A?style=for-the-badge&logo=securityscorecard&logoColor=white)
 ![Bot Detection](https://img.shields.io/badge/Bot%20Detection-0EA5E9?style=for-the-badge&logo=probot&logoColor=white)
-![Secure Design](https://img.shields.io/badge/Secure%20System%20Design-EC4899?style=for-the-badge&logo=shield&logoColor=white)
+![Secure Design](https://img.shields.io/badge/Secure%20System%20Design-7C3AED?style=for-the-badge&logo=shield&logoColor=white)
 
 ### AI & Intelligent Systems
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![AI Systems](https://img.shields.io/badge/AI%20Systems-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-EC4899?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-7C3AED?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 ### IoT & Embedded Systems
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Sensors](https://img.shields.io/badge/Sensor%20Integration-334155?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Automation](https://img.shields.io/badge/Smart%20Automation-EC4899?style=for-the-badge&logo=homeassistant&logoColor=white)
+![Automation](https://img.shields.io/badge/Smart%20Automation-7C3AED?style=for-the-badge&logo=homeassistant&logoColor=white)
 
 ### Tools & Platforms
 
@@ -119,15 +117,12 @@ Mindset     : Curious, resilient, analytical, and security-first
 - AI integrations in security systems
 - Cloud fundamentals, including AWS basics
 - System design and scalable application architecture
-- Women in cybersecurity leadership, awareness, and community growth
 
 ---
 
 ## Goals
 
 My goal is to grow as a **Cybersecurity Engineer**, build secure and efficient systems, and contribute to innovative technology solutions that solve real-world problems.
-
-I also want to represent and encourage **women in cybersecurity**, showing that security is a field where curiosity, courage, discipline, and creativity can create powerful impact.
 
 ---
 
@@ -156,8 +151,8 @@ I also want to represent and encourage **women in cybersecurity**, showing that 
 
 <div align="center">
 
-### "Securing the digital world while inspiring more women to build it."
+### "Learning, building, securing, and improving one project at a time."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:0ea5e9,100:7c3aed&height=120&section=footer" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0ea5e9,100:0f172a&height=120&section=footer" alt="Footer wave" />
 
 </div>
