@@ -136,7 +136,7 @@ My goal is to grow as a **Cybersecurity Engineer**, build secure and efficient s
 </div>
 ## 🐍 Contribution Activity
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/rachanarv17/rachanarv17/output/github-snake.gif)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/rachanarv17/rachanarv17/output/github-snake-dark.svg)
 
 ---
 
