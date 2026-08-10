@@ -128,6 +128,7 @@ My goal is to grow as a **Cybersecurity Engineer**, build secure and efficient s
 
 ## GitHub Activity
 
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rachanarv17&show_icons=true&theme=radical&hide_border=true" height="165">
@@ -139,6 +140,8 @@ My goal is to grow as a **Cybersecurity Engineer**, build secure and efficient s
 <img src="https://raw.githubusercontent.com/rachanarv17/rachanarv17/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 
 </div>
+
+---
 
 ---
 ## 🐍 Contribution Activity
