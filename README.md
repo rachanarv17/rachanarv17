@@ -136,10 +136,6 @@ My goal is to grow as a **Cybersecurity Engineer**, build secure and efficient s
 
 ---
 
----
-
----
-
 ## Connect With Me
 
 <div align="center">
