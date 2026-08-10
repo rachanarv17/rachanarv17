@@ -130,9 +130,11 @@ My goal is to grow as a **Cybersecurity Engineer**, build secure and efficient s
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rachanarv17/rachanarv17/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/rachanarv17/rachanarv17/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 
 </div>
+
+---
 
 ---
 
