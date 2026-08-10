@@ -128,29 +128,13 @@ My goal is to grow as a **Cybersecurity Engineer**, build secure and efficient s
 
 ## GitHub Activity
 
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rachanarv17&show_icons=true&theme=radical&hide_border=true" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachanarv17&layout=compact&theme=radical&hide_border=true" height="165">
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/rachanarv17/rachanarv17/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/rachanarv17/rachanarv17/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
 
 ---
-
----
-## 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rachanarv17/rachanarv17/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rachanarv17/rachanarv17/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rachanarv17/rachanarv17/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
