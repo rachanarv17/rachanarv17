@@ -128,12 +128,18 @@ Tracking my development journey through projects, experiments, and hands-on deve
 
 <br/><br/>
 
-### ⚡ GitHub Statistics & Contribution Streak
+### ⚡ GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rachanarv17&show_icons=true&theme=tokyonight&bg_color=080B11&title_color=0ea5e9&text_color=94a3b8&icon_color=0ea5e9&border_color=1e293b&hide_border=true" alt="Rachana RV's GitHub Stats" height="175" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=rachanarv17&theme=tokyonight&background=080B11&ring=0ea5e9&fire=0ea5e9&currStreakNum=ffffff&sideNums=ffffff&sideLabels=94a3b8&dates=94a3b8&hide_border=true" alt="GitHub Streak" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rachanarv17&show_icons=true&theme=tokyonight&bg_color=080B11&title_color=0ea5e9&text_color=94a3b8&icon_color=0ea5e9&border_color=1e293b&hide_border=true" alt="Rachana RV's GitHub Stats" />
+</p>
+
+<br/><br/>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rachanarv17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br/>
