@@ -139,7 +139,7 @@ Tracking my development journey through projects, experiments, and hands-on deve
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rachanarv17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachanarv17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br/>
