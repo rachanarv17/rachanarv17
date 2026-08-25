@@ -116,9 +116,9 @@ Tracking my development journey through projects, experiments, and hands-on deve
 
 <div align="center">
 
-### 📈 Contribution Activity Graph
+### 📊 GitHub Contribution Overview
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachanarv17&bg_color=080B11&color=94a3b8&line=0ea5e9&point=7c3aed&area=true&hide_border=true" alt="GitHub Contribution Activity Graph" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachanarv17&theme=tokyonight" alt="GitHub Contribution Overview" width="100%" />
 
 <br/><br/>
 
@@ -139,23 +139,16 @@ Tracking my development journey through projects, experiments, and hands-on deve
 ### ⚡ GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rachanarv17&show_icons=true&theme=tokyonight&bg_color=080B11&title_color=0ea5e9&text_color=94a3b8&icon_color=0ea5e9&border_color=1e293b&hide_border=true" alt="Rachana RV's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachanarv17&theme=tokyonight" alt="GitHub Statistics" />
 </p>
 
 <br/><br/>
 
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachanarv17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<br/>
-
 ### 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rachanarv17&layout=compact&theme=tokyonight&bg_color=080B11&title_color=0ea5e9&text_color=94a3b8&icon_color=0ea5e9&border_color=1e293b&hide_border=true" alt="Top Languages" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rachanarv17&theme=tokyonight" alt="Repositories by Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rachanarv17&theme=tokyonight" alt="Most Commit Languages" />
 </p>
 
 </div>
