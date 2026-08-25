@@ -118,13 +118,21 @@ Tracking my development journey through projects, experiments, and hands-on deve
 
 ### 📈 Contribution Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachanarv17&theme=react-dark&bg_color=080B11&color=0ea5e9&line=0ea5e9&point=7c3aed&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachanarv17&bg_color=080B11&color=94a3b8&line=0ea5e9&point=7c3aed&area=true&hide_border=true" alt="GitHub Contribution Activity Graph" width="100%" />
 
 <br/><br/>
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/rachanarv17/rachanarv17/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rachanarv17/rachanarv17/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rachanarv17/rachanarv17/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/rachanarv17/rachanarv17/output/github-contribution-grid-snake.svg"
+    width="100%" />
+</picture>
 
 <br/><br/>
 
